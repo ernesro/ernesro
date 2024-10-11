@@ -4,7 +4,7 @@
 
 <h2>Contacto</h2>
   
-<a href="www.linkedin.com/in/ernestas-urbonas-020702220" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ernestas"/></a>
+<a href= "https://www.linkedin.com/in/ernestas-urbonas-020702220/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ernestas"/></a>
 <a href = "mailto:ernesrourbonas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
   </p>
 <br>
