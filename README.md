@@ -12,8 +12,9 @@
 <!--Intro start-->
 
 <p align="left">
-Soy desarrollador de software backend con experiencia en Spring Boot, apasionado por la tecnología y la mejora continua. 
-Me enfoco en ofrecer soluciones robustas y optimizadas, asegurando un código limpio y eficiente para enfrentar desafíos complejos.
+Soy desarrollador de software especializado en backend, con experiencia en frameworks como Spring Boot. 
+  Apasionado por la tecnología desde joven, me caracterizo por mi interés en la mejora continua y la adopción de nuevas tecnologías.
+  Mi objetivo es ofrecer soluciones robustas y optimizadas, asegurando un código limpio y eficiente para enfrentar desafíos complejos de forma innovadora.
 
 <!--Intro end-->
   </p>
