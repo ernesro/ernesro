@@ -12,11 +12,12 @@
 <!--Intro start-->
 
 <p align="left">
-Soy desarrollador de software especializado en backend, con experiencia en frameworks como Spring Boot. 
+Soy desarrollador de software Junior especializado en backend, con experiencia en frameworks como Spring Boot. 
   Apasionado por la tecnología desde joven, me caracterizo por mi interés en la mejora continua y la adopción de nuevas tecnologías.
   Mi objetivo es ofrecer soluciones robustas y optimizadas, asegurando un código limpio y eficiente para enfrentar desafíos complejos de forma innovadora.
-
-<!--Intro end-->
+  Actualmente estoy desarrollando una aplicación llamado GameStore en el que quiero aumentar mis habilidades con Java, Spring boot y Spring Security y ademas apliar mis conociminetos implementando Kafka y openApi, y desarrollamdo un Front con Angular, 
+  todo esto manteniendo un buenas practicas de programacion y manteniendo y un codigo limpio y eficiente.
+  Siempre estoy abierto a escuchar cualquier crítica o idea que me haga mejorar como programador, si por alguna razón miras mi código y ves algo no dudes en comentarmelo 👍.
   </p>
   
 <br>
